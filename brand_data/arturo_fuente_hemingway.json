@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "Arturo Fuente Hemingway Short Story",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$30.32",
+    "MSRP": "$36.75"
+  },
+  {
+    "Name": "Arturo Fuente Hemingway Short Story",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$147.00",
+    "MSRP": "$183.75"
+  },
+  {
+    "Name": "Arturo Fuente Hemingway Best Seller",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$35.48",
+    "MSRP": "$43.00"
+  },
+  {
+    "Name": "Arturo Fuente Hemingway Best Seller",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$172.00",
+    "MSRP": "$215.00"
+  },
+  {
+    "Name": "Arturo Fuente Hemingway Work of Art",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$45.99",
+    "MSRP": "$55.75"
+  },
+  {
+    "Name": "Arturo Fuente Hemingway Work of Art",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$223.00",
+    "MSRP": "$278.75"
+  },
+  {
+    "Name": "Arturo Fuente Hemingway Signature",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$43.31",
+    "MSRP": "$52.50"
+  },
+  {
+    "Name": "Arturo Fuente Hemingway Signature",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$210.00",
+    "MSRP": "$262.50"
+  },
+  {
+    "Name": "Arturo Fuente Hemingway Classic",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$47.23",
+    "MSRP": "$57.25"
+  },
+  {
+    "Name": "Arturo Fuente Hemingway Classic",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$229.00",
+    "MSRP": "$286.25"
+  },
+  {
+    "Name": "Arturo Fuente Hemingway Masterpiece",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$78.99",
+    "MSRP": "$95.75"
+  },
+  {
+    "Name": "Arturo Fuente Hemingway Masterpiece",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$153.20",
+    "MSRP": "$191.50"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Herrera Esteli Robusto Extra",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$49.63",
+    "MSRP": "$52.25"
+  },
+  {
+    "Name": "Herrera Esteli Robusto Extra",
+    "Pack": "BOX OF 25",
+    "Stock Status": "Out of Stock",
+    "Price": "$248.18",
+    "MSRP": "$261.25"
+  },
+  {
+    "Name": "Herrera Esteli Lonsdale Deluxe",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$33.95",
+    "MSRP": "$54.75"
+  },
+  {
+    "Name": "Herrera Esteli Lonsdale Deluxe",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$260.06",
+    "MSRP": "$273.75"
+  },
+  {
+    "Name": "Herrera Esteli Toro Especial",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$54.38",
+    "MSRP": "$57.25"
+  },
+  {
+    "Name": "Herrera Esteli Toro Especial",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$271.93",
+    "MSRP": "$286.25"
+  }
+]

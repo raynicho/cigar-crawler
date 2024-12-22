@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "Isla Del Sol Gran Corona Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$16.28",
+    "MSRP": "$26.25"
+  },
+  {
+    "Name": "Isla Del Sol Gran Corona Maduro",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$43.05",
+    "MSRP": "$52.50"
+  },
+  {
+    "Name": "Isla Del Sol Robusto Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$17.83",
+    "MSRP": "$28.75"
+  },
+  {
+    "Name": "Isla Del Sol Robusto Maduro",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$35.94",
+    "MSRP": "$57.50"
+  },
+  {
+    "Name": "Isla Del Sol Toro Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$18.60",
+    "MSRP": "$30.00"
+  },
+  {
+    "Name": "Isla Del Sol Toro Maduro",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$37.50",
+    "MSRP": "$60.00"
+  },
+  {
+    "Name": "Isla Del Sol Churchill Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$20.18",
+    "MSRP": "$32.55"
+  },
+  {
+    "Name": "Isla Del Sol Churchill Maduro",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$40.69",
+    "MSRP": "$65.10"
+  }
+]

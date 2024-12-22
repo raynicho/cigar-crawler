@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "Isla Del Sol Robusto Sun Grown",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$17.83",
+    "MSRP": "$28.75"
+  },
+  {
+    "Name": "Isla Del Sol Robusto Sun Grown",
+    "Pack": "BOX OF 20",
+    "Stock Status": "In Stock",
+    "Price": "$69.00",
+    "MSRP": "$115.00"
+  },
+  {
+    "Name": "Isla Del Sol Toro Sun Grown",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$18.60",
+    "MSRP": "$30.00"
+  },
+  {
+    "Name": "Isla Del Sol Toro Sun Grown",
+    "Pack": "BOX OF 20",
+    "Stock Status": "In Stock",
+    "Price": "$72.00",
+    "MSRP": "$120.00"
+  },
+  {
+    "Name": "Isla Del Sol Gordito Sun Grown",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$21.70",
+    "MSRP": "$35.00"
+  },
+  {
+    "Name": "Isla Del Sol Gordito Sun Grown",
+    "Pack": "BOX OF 16",
+    "Stock Status": "In Stock",
+    "Price": "$91.84",
+    "MSRP": "$112.00"
+  },
+  {
+    "Name": "Isla Del Sol Churchill Sun Grown",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$20.15",
+    "MSRP": "$32.50"
+  },
+  {
+    "Name": "Isla Del Sol Churchill Sun Grown",
+    "Pack": "BOX OF 20",
+    "Stock Status": "In Stock",
+    "Price": "$78.00",
+    "MSRP": "$130.00"
+  }
+]

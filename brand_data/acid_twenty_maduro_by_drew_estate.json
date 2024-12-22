@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "ACID Twenty Maduro Robusto",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$34.88",
+    "MSRP": "$56.25"
+  },
+  {
+    "Name": "ACID Twenty Maduro Robusto",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$221.40",
+    "MSRP": "$270.00"
+  },
+  {
+    "Name": "ACID Twenty Maduro Toro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$35.65",
+    "MSRP": "$57.50"
+  },
+  {
+    "Name": "ACID Twenty Maduro Toro",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$226.32",
+    "MSRP": "$276.00"
+  }
+]

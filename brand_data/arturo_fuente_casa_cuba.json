@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "Arturo Fuente Casa Cuba Doble Cuatro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$50.33",
+    "MSRP": "$61.00"
+  },
+  {
+    "Name": "Arturo Fuente Casa Cuba Doble Cuatro",
+    "Pack": "BOX OF 30",
+    "Stock Status": "In Stock",
+    "Price": "$292.80",
+    "MSRP": "$366.00"
+  },
+  {
+    "Name": "Arturo Fuente Casa Cuba Doble Cinco",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$51.98",
+    "MSRP": "$63.00"
+  },
+  {
+    "Name": "Arturo Fuente Casa Cuba Doble Cinco",
+    "Pack": "BOX OF 30",
+    "Stock Status": "In Stock",
+    "Price": "$302.40",
+    "MSRP": "$378.00"
+  },
+  {
+    "Name": "Arturo Fuente Casa Cuba Doble Tres",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$49.95",
+    "MSRP": "$57.75"
+  },
+  {
+    "Name": "Arturo Fuente Casa Cuba Doble Tres",
+    "Pack": "BOX OF 30",
+    "Stock Status": "In Stock",
+    "Price": "$285.87",
+    "MSRP": "$346.50"
+  },
+  {
+    "Name": "Arturo Fuente Casa Cuba Doble Sies",
+    "Pack": "5 CIGARS",
+    "Stock Status": "Out of Stock",
+    "Price": "$57.31",
+    "MSRP": "$66.25"
+  },
+  {
+    "Name": "Arturo Fuente Casa Cuba Doble Sies",
+    "Pack": "BOX OF 30",
+    "Stock Status": "Out of Stock",
+    "Price": "$327.94",
+    "MSRP": "$397.50"
+  },
+  {
+    "Name": "Arturo Fuente Casa Cuba Divine Inspiration",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$46.72",
+    "MSRP": "$54.00"
+  },
+  {
+    "Name": "Arturo Fuente Casa Cuba Doble Dos",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$52.77",
+    "MSRP": "$61.00"
+  },
+  {
+    "Name": "Arturo Fuente Casa Cuba Doble Dos",
+    "Pack": "BOX OF 30",
+    "Stock Status": "Out of Stock",
+    "Price": "$301.96",
+    "MSRP": "$366.00"
+  }
+]

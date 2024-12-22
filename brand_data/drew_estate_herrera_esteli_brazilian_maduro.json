@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Herrera Esteli Brazilian Maduro Robusto Grande",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$32.40",
+    "MSRP": "$52.25"
+  },
+  {
+    "Name": "Herrera Esteli Brazilian Maduro Robusto Grande",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$248.18",
+    "MSRP": "$261.25"
+  },
+  {
+    "Name": "Herrera Esteli Brazilian Maduro Lonsdale Deluxe",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$33.95",
+    "MSRP": "$54.75"
+  },
+  {
+    "Name": "Herrera Esteli Brazilian Maduro Lonsdale Deluxe",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$260.06",
+    "MSRP": "$273.75"
+  },
+  {
+    "Name": "Herrera Esteli Brazilian Maduro Toro Especial",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$35.50",
+    "MSRP": "$57.25"
+  },
+  {
+    "Name": "Herrera Esteli Brazilian Maduro Toro Especial",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$271.93",
+    "MSRP": "$286.25"
+  }
+]

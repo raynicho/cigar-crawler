@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "Java Maduro Petite Corona",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$26.04",
+    "MSRP": "$42.00"
+  },
+  {
+    "Name": "Java Maduro Petite Corona",
+    "Pack": "BOX OF 40",
+    "Stock Status": "In Stock",
+    "Price": "$251.95",
+    "MSRP": "$336.00"
+  },
+  {
+    "Name": "Java Maduro Corona",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$30.69",
+    "MSRP": "$49.50"
+  },
+  {
+    "Name": "Java Maduro Corona",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$178.50",
+    "MSRP": "$237.60"
+  },
+  {
+    "Name": "Java Maduro Wafe",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$27.90",
+    "MSRP": "$45.00"
+  },
+  {
+    "Name": "Java Maduro Wafe",
+    "Pack": "BOX OF 40",
+    "Stock Status": "Out of Stock",
+    "Price": "$252.00",
+    "MSRP": "$360.00"
+  },
+  {
+    "Name": "Java Maduro The 58",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$38.91",
+    "MSRP": "$62.75"
+  },
+  {
+    "Name": "Java Maduro The 58",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$225.95",
+    "MSRP": "$301.20"
+  },
+  {
+    "Name": "Java Maduro Robusto",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$44.20",
+    "MSRP": "$54.75"
+  },
+  {
+    "Name": "Java Maduro Robusto",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$197.50",
+    "MSRP": "$262.80"
+  },
+  {
+    "Name": "Java Maduro Toro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$36.12",
+    "MSRP": "$58.25"
+  },
+  {
+    "Name": "Java Maduro Toro",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$209.95",
+    "MSRP": "$279.60"
+  }
+]

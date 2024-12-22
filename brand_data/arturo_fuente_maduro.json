@@ -1,0 +1,219 @@
+[
+  {
+    "Name": "Arturo Fuente Cubanitos Maduro",
+    "Pack": "BRICK OF 100",
+    "Stock Status": "Out of Stock",
+    "Price": "$198.01",
+    "MSRP": "$240.00"
+  },
+  {
+    "Name": "Arturo Fuente Exquisitos Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$13.50",
+    "MSRP": "$15.00"
+  },
+  {
+    "Name": "Arturo Fuente Exquisitos Maduro",
+    "Pack": "BOX OF 50",
+    "Stock Status": "Out of Stock",
+    "Price": "$123.76",
+    "MSRP": "$150.00"
+  },
+  {
+    "Name": "Arturo Fuente Chateau Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$30.73",
+    "MSRP": "$37.25"
+  },
+  {
+    "Name": "Arturo Fuente Chateau Maduro",
+    "Pack": "BOX OF 20",
+    "Stock Status": "In Stock",
+    "Price": "$119.20",
+    "MSRP": "$149.00"
+  },
+  {
+    "Name": "Arturo Fuente Rothschild Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$28.67",
+    "MSRP": "$34.75"
+  },
+  {
+    "Name": "Arturo Fuente Rothschild Maduro",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$139.00",
+    "MSRP": "$173.75"
+  },
+  {
+    "Name": "Arturo Fuente Petite Corona Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$25.99",
+    "MSRP": "$31.50"
+  },
+  {
+    "Name": "Arturo Fuente Petite Corona Maduro",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$126.00",
+    "MSRP": "$157.50"
+  },
+  {
+    "Name": "Arturo Fuente Cuban Corona Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$29.08",
+    "MSRP": "$35.25"
+  },
+  {
+    "Name": "Arturo Fuente Cuban Corona Maduro",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$141.00",
+    "MSRP": "$176.25"
+  },
+  {
+    "Name": "Arturo Fuente Brevas Royale Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$15.08",
+    "MSRP": "$16.75"
+  },
+  {
+    "Name": "Arturo Fuente Brevas Royale Maduro",
+    "Pack": "BOX OF 50",
+    "Stock Status": "In Stock",
+    "Price": "$134.00",
+    "MSRP": "$167.50"
+  },
+  {
+    "Name": "Arturo Fuente 858 Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$31.35",
+    "MSRP": "$38.00"
+  },
+  {
+    "Name": "Arturo Fuente 858 Maduro",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$152.00",
+    "MSRP": "$190.00"
+  },
+  {
+    "Name": "Arturo Fuente Curly Head Deluxe Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$17.60",
+    "MSRP": "$19.50"
+  },
+  {
+    "Name": "Arturo Fuente Curly Head Deluxe Maduro",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$82.88",
+    "MSRP": "$97.50"
+  },
+  {
+    "Name": "Arturo Fuente Spanish Lonsdale Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$28.26",
+    "MSRP": "$34.25"
+  },
+  {
+    "Name": "Arturo Fuente Spanish Lonsdale Maduro",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$137.00",
+    "MSRP": "$171.25"
+  },
+  {
+    "Name": "Arturo Fuente Corona Imperial Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$32.18",
+    "MSRP": "$39.00"
+  },
+  {
+    "Name": "Arturo Fuente Corona Imperial Maduro",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$156.00",
+    "MSRP": "$195.00"
+  },
+  {
+    "Name": "Arturo Fuente Seleccion Privada #1 Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$30.94",
+    "MSRP": "$37.50"
+  },
+  {
+    "Name": "Arturo Fuente Seleccion Privada #1 Maduro",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$150.00",
+    "MSRP": "$187.50"
+  },
+  {
+    "Name": "Arturo Fuente Double Chateau Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$36.51",
+    "MSRP": "$44.25"
+  },
+  {
+    "Name": "Arturo Fuente Double Chateau Maduro",
+    "Pack": "BOX OF 20",
+    "Stock Status": "In Stock",
+    "Price": "$141.60",
+    "MSRP": "$177.00"
+  },
+  {
+    "Name": "Arturo Fuente Churchill Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$34.65",
+    "MSRP": "$42.00"
+  },
+  {
+    "Name": "Arturo Fuente Churchill Maduro",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$168.00",
+    "MSRP": "$210.00"
+  },
+  {
+    "Name": "Arturo Fuente Royal Salute Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$44.55",
+    "MSRP": "$54.00"
+  },
+  {
+    "Name": "Arturo Fuente Royal Salute Maduro",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$88.02",
+    "MSRP": "$108.00"
+  },
+  {
+    "Name": "Arturo Fuente Canones Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$45.58",
+    "MSRP": "$55.25"
+  },
+  {
+    "Name": "Arturo Fuente Canones Maduro",
+    "Pack": "BOX OF 20",
+    "Stock Status": "In Stock",
+    "Price": "$176.80",
+    "MSRP": "$221.00"
+  }
+]

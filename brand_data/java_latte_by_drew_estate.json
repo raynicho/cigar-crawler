@@ -1,0 +1,72 @@
+[
+  {
+    "Name": "Java Latte Petite Corona",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$34.00",
+    "MSRP": "$42.00"
+  },
+  {
+    "Name": "Java Latte Petite Corona",
+    "Pack": "BOX OF 40",
+    "Stock Status": "Out of Stock",
+    "Price": "$251.95",
+    "MSRP": "$336.00"
+  },
+  {
+    "Name": "Java Latte Corona",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$30.69",
+    "MSRP": "$49.50"
+  },
+  {
+    "Name": "Java Latte Corona",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$178.50",
+    "MSRP": "$237.60"
+  },
+  {
+    "Name": "Java Latte The 58",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$38.91",
+    "MSRP": "$62.75"
+  },
+  {
+    "Name": "Java Latte The 58",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$225.95",
+    "MSRP": "$301.20"
+  },
+  {
+    "Name": "Java Latte Robusto",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$44.20",
+    "MSRP": "$54.75"
+  },
+  {
+    "Name": "Java Latte Robusto",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$197.50",
+    "MSRP": "$262.80"
+  },
+  {
+    "Name": "Java Latte Toro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$36.12",
+    "MSRP": "$58.25"
+  },
+  {
+    "Name": "Java Latte Toro",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$209.95",
+    "MSRP": "$279.60"
+  }
+]

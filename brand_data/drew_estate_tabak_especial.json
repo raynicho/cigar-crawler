@@ -1,0 +1,142 @@
+[
+  {
+    "Name": "Tabak Especial Cafecita Dulce",
+    "Pack": "BRICK OF 50",
+    "Stock Status": "In Stock",
+    "Price": "$82.00",
+    "MSRP": "$100.00"
+  },
+  {
+    "Name": "Tabak Especial Cafecita Negra",
+    "Pack": "BRICK OF 50",
+    "Stock Status": "In Stock",
+    "Price": "$82.00",
+    "MSRP": "$100.00"
+  },
+  {
+    "Name": "Drew Estate Tabak Especial Robusto Dulce",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$33.95",
+    "MSRP": "$54.75"
+  },
+  {
+    "Name": "Tabak Especial Robusto Dulce",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$215.49",
+    "MSRP": "$262.80"
+  },
+  {
+    "Name": "Tabak Especial Robusto Dulce",
+    "Pack": "25 CIGARS",
+    "Stock Status": "Out of Stock",
+    "Price": "$224.48",
+    "MSRP": "$273.75"
+  },
+  {
+    "Name": "Tabak Especial Robusto Negra",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$44.90",
+    "MSRP": "$54.75"
+  },
+  {
+    "Name": "Tabak Especial Robusto Negra",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$215.49",
+    "MSRP": "$262.80"
+  },
+  {
+    "Name": "Tabak Especial Robusto Negra",
+    "Pack": "25 CIGARS",
+    "Stock Status": "Out of Stock",
+    "Price": "$224.48",
+    "MSRP": "$273.75"
+  },
+  {
+    "Name": "Tabak Especial Toro Dulce",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$47.16",
+    "MSRP": "$57.50"
+  },
+  {
+    "Name": "Tabak Especial Toro Dulce",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$226.32",
+    "MSRP": "$276.00"
+  },
+  {
+    "Name": "Tabak Especial Toro Negra",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$35.65",
+    "MSRP": "$57.50"
+  },
+  {
+    "Name": "Tabak Especial Toro Negra",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$226.32",
+    "MSRP": "$276.00"
+  },
+  {
+    "Name": "Tabak Especial Gordito Dulce",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$37.05",
+    "MSRP": "$59.75"
+  },
+  {
+    "Name": "Tabak Especial Gordito Dulce",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$71.30",
+    "MSRP": "$119.50"
+  },
+  {
+    "Name": "Tabak Especial Gordito Negra",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$37.05",
+    "MSRP": "$59.75"
+  },
+  {
+    "Name": "Tabak Especial Gordito Negra",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$97.99",
+    "MSRP": "$119.50"
+  },
+  {
+    "Name": "Tabak Especial Lonsdale Dulce",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$31.50",
+    "MSRP": "$45.00"
+  },
+  {
+    "Name": "Tabak Especial Lonsdale Dulce",
+    "Pack": "25 CIGARS",
+    "Stock Status": "Out of Stock",
+    "Price": "$139.50",
+    "MSRP": "$225.00"
+  },
+  {
+    "Name": "Tabak Especial Lonsdale Negra",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$36.90",
+    "MSRP": "$45.00"
+  },
+  {
+    "Name": "Tabak Especial Lonsdale Negra",
+    "Pack": "25 CIGARS",
+    "Stock Status": "Out of Stock",
+    "Price": "$184.50",
+    "MSRP": "$225.00"
+  }
+]

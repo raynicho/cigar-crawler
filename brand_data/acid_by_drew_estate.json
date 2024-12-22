@@ -1,0 +1,233 @@
+[
+  {
+    "Name": "ACID C-Notes",
+    "Pack": "BOX OF 100",
+    "Stock Status": "In Stock",
+    "Price": "$139.40",
+    "MSRP": "$170.00"
+  },
+  {
+    "Name": "ACID Blondie",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$20.31",
+    "MSRP": "$32.75"
+  },
+  {
+    "Name": "ACID Blondie",
+    "Pack": "BOX OF 40",
+    "Stock Status": "In Stock",
+    "Price": "$214.84",
+    "MSRP": "$262.00"
+  },
+  {
+    "Name": "ACID Blondie Candela",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$20.31",
+    "MSRP": "$32.75"
+  },
+  {
+    "Name": "ACID Blondie Candela",
+    "Pack": "BOX OF 40",
+    "Stock Status": "In Stock",
+    "Price": "$214.84",
+    "MSRP": "$262.00"
+  },
+  {
+    "Name": "ACID Blondie Gold",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$20.31",
+    "MSRP": "$32.75"
+  },
+  {
+    "Name": "ACID Blondie Gold",
+    "Pack": "BOX OF 40",
+    "Stock Status": "In Stock",
+    "Price": "$214.84",
+    "MSRP": "$262.00"
+  },
+  {
+    "Name": "ACID Blondie Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$20.31",
+    "MSRP": "$32.75"
+  },
+  {
+    "Name": "ACID Blondie Maduro",
+    "Pack": "BOX OF 40",
+    "Stock Status": "In Stock",
+    "Price": "$214.84",
+    "MSRP": "$262.00"
+  },
+  {
+    "Name": "ACID 1400cc Tubos",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$53.10",
+    "MSRP": "$64.75"
+  },
+  {
+    "Name": "ACID 1400cc Tubos",
+    "Pack": "BOX OF 18",
+    "Stock Status": "In Stock",
+    "Price": "$191.14",
+    "MSRP": "$233.10"
+  },
+  {
+    "Name": "ACID Kuba Kuba",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$45.31",
+    "MSRP": "$55.25"
+  },
+  {
+    "Name": "ACID Kuba Kuba",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$217.47",
+    "MSRP": "$265.20"
+  },
+  {
+    "Name": "ACID Kuba Kuba Candela",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$34.26",
+    "MSRP": "$55.25"
+  },
+  {
+    "Name": "ACID Kuba Kuba Candela",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$217.47",
+    "MSRP": "$265.20"
+  },
+  {
+    "Name": "ACID Kuba Kuba Maduro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$45.31",
+    "MSRP": "$55.25"
+  },
+  {
+    "Name": "ACID Kuba Kuba Maduro",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$217.47",
+    "MSRP": "$265.20"
+  },
+  {
+    "Name": "ACID Blondie Belicoso",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$42.03",
+    "MSRP": "$51.25"
+  },
+  {
+    "Name": "ACID Blondie Belicoso",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$201.72",
+    "MSRP": "$246.00"
+  },
+  {
+    "Name": "ACID Deep Dish",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$49.21",
+    "MSRP": "$60.00"
+  },
+  {
+    "Name": "ACID Deep Dish",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$236.16",
+    "MSRP": "$288.00"
+  },
+  {
+    "Name": "ACID Plush",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$44.90",
+    "MSRP": "$54.75"
+  },
+  {
+    "Name": "ACID Plush",
+    "Pack": "BOX OF 24",
+    "Stock Status": "Out of Stock",
+    "Price": "$215.50",
+    "MSRP": "$262.80"
+  },
+  {
+    "Name": "ACID Toast",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$34.88",
+    "MSRP": "$56.25"
+  },
+  {
+    "Name": "ACID Toast",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$221.40",
+    "MSRP": "$270.00"
+  },
+  {
+    "Name": "ACID Kuba Kuba Deluxe Tubos",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$43.25",
+    "MSRP": "$69.75"
+  },
+  {
+    "Name": "ACID Kuba Kuba Deluxe Tubos",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$114.39",
+    "MSRP": "$139.50"
+  },
+  {
+    "Name": "ACID Kuba Grande",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$44.80",
+    "MSRP": "$72.25"
+  },
+  {
+    "Name": "ACID Kuba Grande",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$118.49",
+    "MSRP": "$144.50"
+  },
+  {
+    "Name": "ACID Extra Ordinary Larry",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$44.80",
+    "MSRP": "$72.25"
+  },
+  {
+    "Name": "ACID Extra Ordinary Larry",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$118.49",
+    "MSRP": "$144.50"
+  },
+  {
+    "Name": "ACID Cold Infusion",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$31.78",
+    "MSRP": "$51.25"
+  },
+  {
+    "Name": "ACID Cold Infusion",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$201.72",
+    "MSRP": "$246.00"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Drew Estate Chateau Real Crystale Deluxe",
+    "Pack": "5 CIGARS",
+    "Stock Status": "Out of Stock",
+    "Price": "$37.95",
+    "MSRP": "$43.25"
+  },
+  {
+    "Name": "Drew Estate Chateau Real Crystale Deluxe",
+    "Pack": "BOX OF 20",
+    "Stock Status": "Out of Stock",
+    "Price": "$99.95",
+    "MSRP": "$173.00"
+  },
+  {
+    "Name": "Drew Estate Chateau Real Gran Templar",
+    "Pack": "5 CIGARS",
+    "Stock Status": "Out of Stock",
+    "Price": "$39.95",
+    "MSRP": "$45.00"
+  },
+  {
+    "Name": "Drew Estate Chateau Real Gran Templar",
+    "Pack": "BOX OF 20",
+    "Stock Status": "In Stock",
+    "Price": "$104.95",
+    "MSRP": "$180.00"
+  },
+  {
+    "Name": "Drew Estate Chateau Real Lord Tennyson",
+    "Pack": "5 CIGARS",
+    "Stock Status": "Out of Stock",
+    "Price": "$41.95",
+    "MSRP": "$46.75"
+  },
+  {
+    "Name": "Drew Estate Chateau Real Lord Tennyson",
+    "Pack": "BOX OF 20",
+    "Stock Status": "Out of Stock",
+    "Price": "$109.95",
+    "MSRP": "$187.00"
+  }
+]

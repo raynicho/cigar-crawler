@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "Java Mint Petite Corona",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$26.04",
+    "MSRP": "$42.00"
+  },
+  {
+    "Name": "Java Mint Petite Corona",
+    "Pack": "BOX OF 40",
+    "Stock Status": "In Stock",
+    "Price": "$251.95",
+    "MSRP": "$336.00"
+  },
+  {
+    "Name": "Java Mint Corona",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$30.69",
+    "MSRP": "$49.50"
+  },
+  {
+    "Name": "Java Mint Corona",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$178.50",
+    "MSRP": "$237.60"
+  },
+  {
+    "Name": "Java Mint Wafe",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$36.34",
+    "MSRP": "$45.00"
+  },
+  {
+    "Name": "Java Mint Wafe",
+    "Pack": "BOX OF 40",
+    "Stock Status": "Out of Stock",
+    "Price": "$247.95",
+    "MSRP": "$360.00"
+  },
+  {
+    "Name": "Java Mint The 58",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$50.79",
+    "MSRP": "$62.75"
+  },
+  {
+    "Name": "Java Mint The 58",
+    "Pack": "BOX OF 24",
+    "Stock Status": "Out of Stock",
+    "Price": "$225.95",
+    "MSRP": "$301.20"
+  },
+  {
+    "Name": "Java Mint Robusto",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$44.20",
+    "MSRP": "$54.75"
+  },
+  {
+    "Name": "Java Mint Robusto",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$197.50",
+    "MSRP": "$262.80"
+  },
+  {
+    "Name": "Java Mint Toro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$36.12",
+    "MSRP": "$58.25"
+  },
+  {
+    "Name": "Java Mint Toro",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$209.95",
+    "MSRP": "$279.60"
+  }
+]

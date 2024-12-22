@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Arturo Fuente Seleccion Dor Corona Imperial",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$32.18",
+    "MSRP": "$39.00"
+  },
+  {
+    "Name": "Arturo Fuente Seleccion Dor Corona Imperial",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$156.00",
+    "MSRP": "$195.00"
+  },
+  {
+    "Name": "Arturo Fuente Seleccion Dor Privada #1",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$30.94",
+    "MSRP": "$37.50"
+  },
+  {
+    "Name": "Arturo Fuente Seleccion Dor Privada #1",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$150.00",
+    "MSRP": "$187.50"
+  },
+  {
+    "Name": "Arturo Fuente Seleccion Dor Churchill",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$34.65",
+    "MSRP": "$42.00"
+  },
+  {
+    "Name": "Arturo Fuente Seleccion Dor Churchill",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$168.00",
+    "MSRP": "$210.00"
+  }
+]

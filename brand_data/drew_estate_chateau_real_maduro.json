@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Chateau Real Maduro by Drew Estate Robusto",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$25.19",
+    "MSRP": "$32.50"
+  },
+  {
+    "Name": "Chateau Real Maduro by Drew Estate Robusto",
+    "Pack": "BOX OF 20",
+    "Stock Status": "In Stock",
+    "Price": "$97.50",
+    "MSRP": "$130.00"
+  },
+  {
+    "Name": "Chateau Real Maduro by Drew Estate Toro",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$26.16",
+    "MSRP": "$33.75"
+  },
+  {
+    "Name": "Chateau Real Maduro by Drew Estate Toro",
+    "Pack": "BOX OF 20",
+    "Stock Status": "In Stock",
+    "Price": "$101.25",
+    "MSRP": "$135.00"
+  },
+  {
+    "Name": "Chateau Real Maduro by Drew Estate Churchill",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$27.13",
+    "MSRP": "$35.00"
+  },
+  {
+    "Name": "Chateau Real Maduro by Drew Estate Churchill",
+    "Pack": "BOX OF 20",
+    "Stock Status": "In Stock",
+    "Price": "$105.00",
+    "MSRP": "$140.00"
+  }
+]

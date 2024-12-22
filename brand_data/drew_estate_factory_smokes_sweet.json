@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Drew Estate Factory Smokes Sweet Robusto",
+    "Pack": "20 CIGARS",
+    "Stock Status": "In Stock",
+    "Price": "$39.99",
+    "MSRP": "$47.60"
+  },
+  {
+    "Name": "Drew Estate Factory Smokes Sweet Toro",
+    "Pack": "20 CIGARS",
+    "Stock Status": "In Stock",
+    "Price": "$45.26",
+    "MSRP": "$55.20"
+  },
+  {
+    "Name": "Drew Estate Factory Smokes Sweet Belicoso",
+    "Pack": "20 CIGARS",
+    "Stock Status": "In Stock",
+    "Price": "$52.15",
+    "MSRP": "$63.60"
+  },
+  {
+    "Name": "Drew Estate Factory Smokes Sweet Churchill",
+    "Pack": "20 CIGARS",
+    "Stock Status": "In Stock",
+    "Price": "$50.19",
+    "MSRP": "$61.20"
+  }
+]

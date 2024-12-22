@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Herrera Esteli Miami Robusto Grande",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$46.50",
+    "MSRP": "$75.00"
+  },
+  {
+    "Name": "Herrera Esteli Miami Robusto Grande",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$142.50",
+    "MSRP": "$150.00"
+  },
+  {
+    "Name": "Herrera Esteli Miami Toro Espeical",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$48.05",
+    "MSRP": "$77.50"
+  },
+  {
+    "Name": "Herrera Esteli Miami Toro Espeical",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$147.25",
+    "MSRP": "$155.00"
+  },
+  {
+    "Name": "Herrera Esteli Miami Lonsdale Deluxe",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$68.87",
+    "MSRP": "$72.50"
+  },
+  {
+    "Name": "Herrera Esteli Miami Lonsdale Deluxe",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$137.75",
+    "MSRP": "$145.00"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "Name": "Arturo Fuente Chateau Natural",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$30.73",
+    "MSRP": "$37.25"
+  },
+  {
+    "Name": "Arturo Fuente Chateau Natural",
+    "Pack": "BOX OF 10",
+    "Stock Status": "Out of Stock",
+    "Price": "$63.33",
+    "MSRP": "$74.50"
+  },
+  {
+    "Name": "Arturo Fuente Chateau Natural",
+    "Pack": "BOX OF 20",
+    "Stock Status": "In Stock",
+    "Price": "$119.20",
+    "MSRP": "$149.00"
+  },
+  {
+    "Name": "Arturo Fuente Chateau Pyramid",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$40.63",
+    "MSRP": "$49.25"
+  },
+  {
+    "Name": "Arturo Fuente Chateau Pyramid",
+    "Pack": "BOX OF 25",
+    "Stock Status": "In Stock",
+    "Price": "$197.00",
+    "MSRP": "$246.25"
+  },
+  {
+    "Name": "Arturo Fuente Double Chateau Natural",
+    "Pack": "5-PACK",
+    "Stock Status": "Out of Stock",
+    "Price": "$38.28",
+    "MSRP": "$44.25"
+  },
+  {
+    "Name": "Arturo Fuente Double Chateau Natural",
+    "Pack": "BOX OF 20",
+    "Stock Status": "In Stock",
+    "Price": "$141.60",
+    "MSRP": "$177.00"
+  },
+  {
+    "Name": "Arturo Fuente Chateau King T Natural",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$51.98",
+    "MSRP": "$63.00"
+  },
+  {
+    "Name": "Arturo Fuente Chateau King T Natural",
+    "Pack": "BOX OF 24",
+    "Stock Status": "In Stock",
+    "Price": "$229.00",
+    "MSRP": "$302.40"
+  },
+  {
+    "Name": "Arturo Fuente Chateau Fuente Royal Salute Natural",
+    "Pack": "5-PACK",
+    "Stock Status": "In Stock",
+    "Price": "$44.55",
+    "MSRP": "$54.00"
+  },
+  {
+    "Name": "Arturo Fuente Chateau Fuente Royal Salute Natural",
+    "Pack": "BOX OF 10",
+    "Stock Status": "In Stock",
+    "Price": "$88.02",
+    "MSRP": "$108.00"
+  }
+]
